@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621910432 source:/home/stevompg/Escritorio/LABORATORIO 1 - Steven Pereira/main.c
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+
